@@ -1,0 +1,6 @@
+=== Konfigurasi Node Lokal (Anvil) ===
+Command dijalankan : anvil
+RPC URL             : http://127.0.0.1:8545
+Chain ID            : 31337
+Jumlah akun default : 10
+Saldo awal per akun  : 10000 ETH
