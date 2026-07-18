@@ -1,0 +1,7 @@
+Alamat Kontrak: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+Tx Hash Deploy: 0x22b9009439df8c649a61b5a912780e8d8d142cf403197b3a5777e215a815024e
+
+Transaksi Absen:
+1. Pertemuan 1 - Windy   - Tx: 0xae7ed3ddd11519a2dea0e5b07300fa4c108180e53f81d816cedfe387d41c4a78
+2. Pertemuan 1 - Kireina - Tx: 0x7c7f220cc8293b23bd809da9f305cb71b425b5ec6534de11b27493ff27366bf5
+3. Pertemuan 3 - Eka     - Tx: 0x75dcc75544c3e91565cff12ad25565c8b92a320abf9e9599911751dfe8dce3e4
